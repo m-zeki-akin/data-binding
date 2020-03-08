@@ -3,5 +3,15 @@
 	"id": 15,
 	"firstName": "Zeki",
 	"lastName": "Akin",
-	"active": true
+	"active": true,
+	"address": {
+		"country": "Turkey",
+		"city": "Yalova",
+		"district": "Merkez",
+		"street": "Ismet Acar"
+	},
+	"languages": [
+		"Turkish",
+		"English"
+	]
 }
